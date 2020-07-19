@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  <title>Unlocking Creativity — Perrera.com</title>
+  <meta name="description" content="An online publication about design and related ideas written by Amy Parker and Dan Perrera.">
+  
+  <link rel="shortcut icon" href="../../favicon.ico">
+  <link rel="apple-touch-icon" href="../../apple-touch-icon-precomposed.png">
+  <link rel="icon" href="../../apple-touch-icon-precomposed.png">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" type="text/css" href="../../main.css" />
+  
+  <link rel="alternate" title="Perrera.com" type="application/json" href="../../feed.json" />
+</head>
+
+<body class="overflow-x-hidden">
+  
+  <div class="header menu-active bg-white
+    h3 vh-100-l
+    br-l b--light-gray
+    fixed-l top-0 left-0 z-max
+    flex justify-between flex-row-reverse flex-row-l items-center items-start-l">
+    
+    <div class="ph4 pv0-l w-100 w-auto-l flex flex-column-l justify-between items-center">
+      
+      <div class="vh-50-l flex items-end">
+        <a href="../../index.html" class="no-underline">
+          <h1 class="f4 f3-l ma0">Perrera.com</h1>
+        </a>
+      </div>
+      
+      <div class="fixed-l bottom-0 left-0 inline-flex justify-center items-center ma4-l">
+        <a href="../../about" class="o-50 glow">
+          <img src="../../img/icon-about.svg" alt="">
+        </a>
+      </div>
+      
+    </div>
+    
+    <div class="menu open">
+      <a href="../../index.html" class="vh-100 vh-50-l flex items-center items-end-l justify-center">
+        <img src="../../img/icon-menu.svg" class="mb1" alt="">
+      </a>
+    </div>
+    
+  </div>
+  
+  <div id="barba-wrapper">
+    <div class="barba-container menu-active" data-namespace="post">
+  
+  <div class="ph4 ph5-l">
+    
+    <header class="min-vh-50-l lh-solid w-100 mt2 mb5 pt4
+      flex flex-column items-baseline justify-between">
+      <span class="f7 ttu tracked-mega mono silver mb5">
+        20 Oct 2017
+      </span>
+      <h1 class="f2 f1-m f-5-l mt2 mb0 mw7 lh-title lh-solid-l">
+        Unlocking Creativity
+      </h1>
+    </header>
+    
+    <div class="
+      nested-copy-seperator
+      nested-copy-line-height
+      nested-headline-line-height
+      nested-margin-first">
+      <p class="f7 ttu tracked-mega mono silver mb2 pb3">
+        by Amy Parker
+      </p>
+      <div class="measure">
+        <p>Last month, the good folks at <a href="https://dribbble.com">Dribbble</a> asked me to be on a panel at their inaugural <a href="https://dribbble.com/hangtime">Hang Time</a> conference. The focus of the discussion was on tapping into your full creative potential, getting past creative blocks, and staying inspired. As a business owner, designer, and side-project enthusiast, here’s what I had to say:</p>
+
+<h2 id="how-do-you-get-inspired">How do you get inspired?</h2>
+
+<p>While I definitely look at other designers’ work to see what’s possible or how someone else has approached a problem, I also love to look outside of design for inspiration. Architecture, photography, fine art — even urban planning — are all great sources of inspiration. Seeing how Charles Sheeler <a href="http://www.mfa.org/exhibitions/charles-sheeler-from-doylestown-to-detroit">used photography</a> to inform his drawings or how Picasso approached a portrait helps me find inspiration in objects I might normally overlook or view as uninspiring.</p>
+
+<p>Approaching a project as though its in a totally different medium — for instance, thinking about a website like a three-dimensional space or approaching an animation like it’s a museum exhibit — also helps me to get excited and think about the problem differently.</p>
+
+<h2 id="are-rituals-important-to-get-you-in-a-creative-headspace">Are rituals important to get you in a creative headspace?</h2>
+
+<p>No, though I’ve got to make sure I’ve taken care of anything and everything that might prevent me from fully focusing on what I’m working on. I’ve also got a particular chair I need to sit in if I’m going to do my best work — I just can’t think clearly anywhere else!</p>
+
+<h2 id="what-does-your-creative-process-look-like">What does your creative process look like?</h2>
+
+<p>It looks a lot like I’m not doing anything. After I gather all the data I need to tackle a problem, I spend as much time as I can thinking and avoiding starting actual “work.” I usually walk the dog, cook, bake, or watch baseball while my brain subconsciously churns on an idea.</p>
+
+<p>I also take this time to look for inspiration (see question no. 1) and filter it through the parameters of the project, sifting out what doesn’t make sense and translating interesting ideas into realistic solutions.</p>
+
+<p>At this stage, I avoid saving images or making detailed sketches of things I’m seeing. Instead, I try to study what’s working, understand the formula behind the solution, and apply that to the problem I’m working on. This way, I (hopefully) avoid making an exact copy and come up with something that’s both appropriate and unique.</p>
+
+<h2 id="how-do-side-projects-help-you-tap-into-creativity">How do side projects help you tap into creativity?</h2>
+
+<p>With no externally imposed restrictions, limitations, or time limits, side projects allow me to explore what’s possible, push boundaries, learn new skills, and try things out I’m not sure about. I find it also boosts my confidence in my ability to create something and I think that comes across in my client work.</p>
+
+<p>In the case of our <a href="https://foredesign.co/journal/2017/print-and-protest">Print &amp; Protest</a> poster series, it also helped us express our opinions, contribute to a more important cause, and release some stress around the 2016 election.</p>
+
+<h2 id="how-do-you-get-past-imposter-syndrome-or-your-inner-critic">How do you get past imposter syndrome or your inner critic?</h2>
+
+<p>I think about something I’m bad at so that, by comparison, I feel pretty knowledgable about design. If that doesn’t work, I think about explaining something like HTML, InDesign paragraph styles, or the game of baseball to someone who knows nothing about those topics and it quickly becomes apparent how much I know.</p>
+
+<p>I also read an interview recently with one of my favorite designers and he revealed that he gets inspired and gathers ideas the same way I (and, I imagine, a lot of us) do: flipping through Instagram and Pinterest and looking at other graphic design work. What I took away from this is that there’s not a secret, magical method to getting inspired or producing top-notch work — it’s whatever works for you.</p>
+
+<h2 id="how-does-fear-or-failure-play-a-role-in-the-creative-process">How does fear or failure play a role in the creative process?</h2>
+
+<p>Running a small studio, I know that if we’re not constantly putting out our absolute best work, we won’t get new clients and we’ll go out of business. That’s the ultimate failure — and motivator!</p>
+
+      </div>
+    </div>
+  
+  </div>
+  
+  
+    
+    <div class="bt bb b--light-gray flex content-stretch justify-end mt6">
+      
+        <a class="hover-bg-near-white no-underline 
+        flex items-center w-50 pv3 pv4-ns ph4 ph5-l" href="../the-value-of-experimentation/index.html?next">
+          <img src="../../img/icon-arrow.svg" alt="The Value of Experimentation">
+          <span class="pl3 dn db-l">
+            The Value of Experimentation
+          </span>
+        </a>
+      
+      
+      
+        <a class="hover-bg-near-white no-underline 
+        flex items-center justify-end w-50 tr pv3 pv4-ns ph4 ph5-l bl b--light-gray" href="../hang-time-2017/index.html?prev">
+          <span class="pr3 dn db-l">
+            Hang Time 2017
+          </span>
+          <img class="rotate-180" src="../../img/icon-arrow.svg" alt="Hang Time 2017">
+        </a>
+      
+    </div>
+  
+    
+  <div class="mh4 mh5-l pv3 pv4-l gray f7 flex-ns justify-between items-center">
+  <div class="mv3 mv0-ns inline-flex items-center">
+    <a href="https://foredesign.co" class="o-50 glow no-underline mr3">
+      <img src="../../img/icon-fore.svg" alt="Fore Design">
+    </a>
+    <a href="https://twitter.com/foredesignco" class="o-50 glow no-underline mr3">
+      <img src="../../img/icon-twitter.svg" alt="Twitter">
+    </a>
+    <a href="https://dribbble.com/foredesign" class="o-50 glow no-underline mr3">
+      <img src="../../img/icon-dribbble.svg" alt="Dribbble">
+    </a>
+    <a href="https://github.com/foredesign" class="o-50 glow no-underline">
+      <img src="../../img/icon-github.svg" alt="GitHub">
+    </a>
+  </div>
+  <div class="">
+    &copy; 2011&mdash;2019 Fore Design, Inc.
+  </div>
+</div>
+</div>
+
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js" charset="utf-8"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/barba.js/1.0.0/barba.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.11.0/highlight.min.js" charset="utf-8"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.4.0/languages/twig.min.js"></script>
+  <script src="../../main.js" charset="utf-8"></script>
+</body>
+</html>
